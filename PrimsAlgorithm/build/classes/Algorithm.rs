@@ -1,0 +1,1 @@
+PrimAlgorithm.Algorithm

@@ -1,0 +1,2 @@
+PrimAlgorithm.App
+PrimAlgorithm.Main

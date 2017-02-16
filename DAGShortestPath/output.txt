@@ -1,0 +1,7 @@
+Traversed vertices:r 
+Traversed vertices:s 
+Traversed vertices:t 
+Traversed vertices:x 
+Traversed vertices:y 
+Traversed vertices:z 
+No shortest path there...

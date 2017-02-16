@@ -1,0 +1,1 @@
+KruskalAlgorithm.Edge

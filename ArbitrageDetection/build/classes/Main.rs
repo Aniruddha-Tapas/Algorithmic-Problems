@@ -1,0 +1,2 @@
+ArbitrageDetection.Main
+ArbitrageDetection.App
